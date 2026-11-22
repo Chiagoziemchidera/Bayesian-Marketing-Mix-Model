@@ -37,7 +37,7 @@ The analysis also compares an adstock model with a raw-spend baseline using Leav
 ```text
 ├── data/
 │   └── MMM_test_data.csv       # Weekly revenue and channel spend data
-├── MMM_Analysis.ipynb          # End-to-end analysis notebook
+├── Bayesian_MMM_Analysis.ipynb          # End-to-end analysis notebook
 ├── .gitignore
 └── README.md                   # Project documentation
 ```
